@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    background-color: aliceblue
+}
+
+form {
+    width: 500px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
+
+input {
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px;
+}
+
+.button{
+    background: #5550ad ;
+    color: #fff;
+    border: none;
+}
+.asd{
+    text-decoration: none;
+    color: #dbd2d2;
+}
+.asd:visited{
+    text-decoration: none;
+    color: #625c5c;
+}
+footer {
+    background-color: #a29f9f;
+}
+
+.footer {
+    padding: 10px;
+}
